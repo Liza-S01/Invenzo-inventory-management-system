@@ -1,7 +1,7 @@
 # Invenzo-inventory-management-system
 # 🧠 Smart Inventory Management System
 
-A *dynamic, **modular, and **scalable* Inventory Management System engineered with *Flask* for robust backend operations and *Django* for a seamless, interactive frontend. This full-stack solution supports advanced business workflows like order processing, inventory tracking, warehouse logistics, secure user authentication, barcode scanning, reporting, and feedback collection. Built using modern REST APIs and tested with *POSTMAN*, this project exemplifies clean architecture and smooth integration across components.
+A *dynamic*, **modular**, and **scalable** Inventory Management System engineered with *Flask* for robust backend operations and *Django* for a seamless, interactive frontend. This full-stack solution supports advanced business workflows like order processing, inventory tracking, warehouse logistics, secure user authentication, barcode scanning, reporting, and feedback collection. Built using modern REST APIs and tested with *POSTMAN*, this project exemplifies clean architecture and smooth integration across components.
 
 ---
 
