@@ -148,7 +148,7 @@ To contribute:
 ## 📬 Contact
 
 For support, collaboration, or queries:
-📧 *singlaliza0107@gmail.com](mailto:singlaliza0107@gmail.com)*
+📧 **singlaliza0107@gmail.com]**
 
 ---
 
